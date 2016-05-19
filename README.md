@@ -50,13 +50,15 @@
 2. 컴퓨터 공학 학사학위 이수 ( 학점은행제 16.02 )
 
 
-## Project
+## Project [![but](https://img.shields.io/badge/github-but-red.svg)](http://www.github.com/yevgnenll/but)
 
-[![but](https://img.shields.io/badge/github-but-red.svg)](http://www.github.com/yevgnenll/but)
+[awesome-but](https://awesome-but.com/)
+
+
 **어떻게 취업난을 해결할까?** 라는 문제 인식으로 시작했습니다.
 
 - backend: python 3.5.1, django 1.9.4, celery, honcho, kt mobile api, celery
-- front-end: materialize css, jquery(현재 mdb로 바꾸고 있습니다), front cloud, ajax
+- front-end: materialize css, jquery(현재 mdb로 바꾸고 있습니다), cloud front, ajax
 - DB: postgreSQL
 - server: amazon ec2 ubuntu
 - tool: vim, slack, travis
