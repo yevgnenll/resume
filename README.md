@@ -15,13 +15,13 @@
 ## tech stack
 
 [![StackShare](http://img.shields.io/badge/tech-stack(click_here)-0690fa.svg?style=flat)](http://stackshare.io/yevgnenll/my-stack)
- 에서 확인이 가능합니다.
+ 에서 각 스택에 대한 저의 의견 확인이 가능합니다.
 
 | classification | stack  |
 | ------------- | ------------- |
-| application & data | bootstrap, nginx, jquery, redis, amazon s3, ec2, celery, |
+| application & data | bootstrap, nginx, jquery, amazon s3, ec2, celery |
 | language  | python, java, html5, markdown  |
-| framework  | django, spring, sass, susy, jade, jinja2 |
+| framework  | django, scss, jinja2 |
 | DB | mariaDB, postgreSQL, mysql |
 | utils  | google drive, mailgun |
 | devOps  | **vim**, github, sublime text, sentry, pycharm|
@@ -37,7 +37,6 @@
   - [실사대행 서비스](http://bizagent.co.kr/) (java & spring)
     게시판 CRUD 구현, 서류추가, 회원상태 체크, 업무와 서류 연결하기
 
-2. 대한민국 육군 병장 11.11~13.08
 3. (주)크리에이팁 마케팅1팀 대리 10.09~11.10
   - [역삼동 미친아이](http://blog.naver.com/spark0017) 운영 파워블로거 1일 방문자 20,000명 
   - 티켓몬스터, 겨레가온데 등 다수의 업체 온라인마케팅 기획, 분석
@@ -50,6 +49,18 @@
 1. fastcampus web programming school #1(16.01.05 ~ 16.04.01)
 2. 컴퓨터 공학 학사학위 이수 ( 학점은행제 16.02 )
 
+
+## Project
+
+[![but](https://img.shields.io/badge/github-but-red.svg)](http://www.github.com/yevgnenll/but)
+**어떻게 취업난을 해결할까?** 라는 문제 인식으로 시작했습니다.
+
+- backend: python 3.5.1, django 1.9.4, celery, honcho, kt mobile api, celery
+- front-end: materialize css, jquery(현재 mdb로 바꾸고 있습니다), front cloud, ajax
+- DB: postgreSQL
+- server: amazon ec2 ubuntu
+- tool: vim, slack, travis
+- git hook으로 pre-commit에 pep8을 체크해 **pep8**을 준수했습니다.
 
 
 ## open source contribute
@@ -85,5 +96,4 @@
 
 ##  vision
 
-1. 훗날, 정상에 올랐을 때 반드시 국가를 위해서 일합니다.
-2. 인종, 국가, 종교, 정치적 성향에 관계없이 저의 지식을 통해 **동등한** 교육이 제공되는 서비스를 만들고 싶습니다.
+1. 인종, 국가, 종교, 정치적 성향에 관계없이 저의 지식을 통해 **동등한** 교육이 제공되는 서비스를 만들고 싶습니다.
