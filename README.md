@@ -33,9 +33,9 @@
 1. (주)다빈솔루션 웹프로그래머 14.04~15.01
   - [문자의달인](http://www.smsmaster.co.kr/) (java & spring)
     게시판 CRUD 구현, 주소록, 관리자페이지 회원 리스트, 딜러 리스트
-    role: backend
   - [실사대행 서비스](http://bizagent.co.kr/) (java & spring)
     게시판 CRUD 구현, 서류추가, 회원상태 체크, 업무와 서류 연결하기
+  - role: backend
 
 3. (주)크리에이팁 마케팅1팀 대리 10.09~11.10
   - [역삼동 미친아이](http://blog.naver.com/spark0017) 운영 파워블로거 1일 방문자 20,000명 
