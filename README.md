@@ -35,6 +35,8 @@
   - react, javascript를 사용해 식사일기, 변화일기, 코치용 웹앱을 만들었습니다.
   - reported error을 수정하기 위해 sentry를 적용하였고, sentry로 인식한 모든 에러를 적극적으로 해결함
   - react life cycle을 이해하여 big O를 줄이는 업무를 주도적으로 수행함
+4. fast campus **git** 특강
+5. fast campus web programming school python 조교
 1. (주)다빈솔루션 웹프로그래머 14.04~15.01
   - [문자의달인](http://www.smsmaster.co.kr/) (java & spring)
     게시판 CRUD 구현, 주소록, 관리자페이지 회원 리스트, 딜러 리스트
@@ -45,8 +47,6 @@
 3. (주)크리에이팁 마케팅1팀 대리 10.09~11.10
   - [역삼동 미친아이](http://blog.naver.com/spark0017) 운영 파워블로거 1일 방문자 20,000명 
   - 티켓몬스터, 겨레가온데 등 다수의 업체 온라인마케팅 기획, 분석
-4. fast campus **git** 특강
-5. fast campus web programming school python 조교 
 
 
 ## Educated
