@@ -72,8 +72,9 @@
 
 ## open source contribute
 
-1. django 오타 수정 1회
-2. http2 번역 참여
+1. django 
+2. http2 번역
+3. gregorian-calendar 
 
 
 ## core value
