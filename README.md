@@ -3,8 +3,7 @@
 
 ## Junior Developer 
 
-신입 개발자로 지원합니다.
-
+~~신입 개발자로 지원합니다.~~
 
 [![e-mail](https://img.shields.io/badge/e--mail-yo@yevgnenll.me-orange.svg)](mailto:yo@yevgnenll.me)
 [![blog](https://img.shields.io/badge/blog-yevgnenll.me-yellowgreen.svg)](http://yevgnenll.me)
