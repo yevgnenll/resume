@@ -30,22 +30,22 @@
 ## Experience
 
 1. 다노 개발팀 인턴 16.07~16.09
-  - back-end 개발자로 입사하였지만, 회사 내부의 긴급한 일정으로 인해 front-end를 경함함
-  - react, javascript를 사용해 식사일기, 변화일기, 코치용 웹앱을 만들었습니다.
-  - reported error을 수정하기 위해 sentry를 적용하였고, sentry로 인식한 모든 에러를 적극적으로 해결함
-  - react life cycle을 이해하여 big O를 줄이는 업무를 주도적으로 수행함
+    - back-end 개발자로 입사하였지만, 회사 내부의 긴급한 일정으로 인해 front-end를 경함함
+    - react, javascript를 사용해 식사일기, 변화일기, 코치용 웹앱을 만들었습니다.
+    - reported error을 수정하기 위해 sentry를 적용하였고, sentry로 인식한 모든 에러를 적극적으로 해결함
+    - react life cycle을 이해하여 big O를 줄이는 업무를 주도적으로 수행함
 4. fast campus **git** 특강
 5. fast campus web programming school python 조교
 1. (주)다빈솔루션 웹프로그래머 14.04~15.01
-  - [문자의달인](http://www.smsmaster.co.kr/) (java & spring)
+    - [문자의달인](http://www.smsmaster.co.kr/) (java & spring)
     게시판 CRUD 구현, 주소록, 관리자페이지 회원 리스트, 딜러 리스트
-  - [실사대행 서비스](http://bizagent.co.kr/) (java & spring)
+    - [실사대행 서비스](http://bizagent.co.kr/) (java & spring)
     게시판 CRUD 구현, 서류추가, 회원상태 체크, 업무와 서류 연결하기
-  - role: backend
+    - role: backend
 
 3. (주)크리에이팁 마케팅1팀 대리 10.09~11.10
-  - [역삼동 미친아이](http://blog.naver.com/spark0017) 운영 파워블로거 1일 방문자 20,000명 
-  - 티켓몬스터, 겨레가온데 등 다수의 업체 온라인마케팅 기획, 분석
+    - [역삼동 미친아이](https://blog.naver.com/spark0017) 운영 파워블로거 1일 방문자 20,000명 
+    - 티켓몬스터, 겨레가온데 등 다수의 업체 온라인마케팅 기획, 분석
 
 
 ## Educated
@@ -85,7 +85,7 @@
 2. "내 일이 아니야"가 아니라 "내가 한번 볼게"를 실천합니다.
 3. 작은 마일스톤을 자주 달성합니다.
 4. 높은 수준의 코드 품질을 고집하며 기술 부채를 최소화 합니다.
-5. 누구나 실수할 수 있다는 것을 충분히 이해하며, 실패나 오류 발생에 대한 책임을 묻지 않는다.
+5. 누구나 실수할 수 있다는 것을 충분히 이해하며, 실패나 오류 발생에 대한 책임을 묻지 않.
 
 
 ### 2. Growth
