@@ -18,7 +18,7 @@
 | ------------- | ------------- |
 | application & data | bootstrap, nginx, jquery, amazon s3, ec2, celery, react |
 | language  | python, java, html5, markdown  |
-| framework  | django, scss, jinja2 |
+| framework  | django, scss, jinja2, spring, vuejs, react |
 | DB | mariaDB, postgreSQL, mysql |
 | utils  | google drive, mailgun |
 | devOps  | **vim**, github, sublime text, sentry, pycharm|
