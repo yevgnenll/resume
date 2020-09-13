@@ -6,7 +6,6 @@
 ~~신입 개발자로 지원합니다.~~
 
 [![e-mail](https://img.shields.io/badge/e--mail-yo@yevgnenll.me-orange.svg)](mailto:yo@yevgnenll.me)
-![phone](https://img.shields.io/badge/phone-+82--10--5249--6690-brightgreen.svg)
 
 
 ## tech stack
